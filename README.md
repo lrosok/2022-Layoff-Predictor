@@ -13,10 +13,12 @@ To use this model, follow these steps:
    ```bash
    git clone https://github.com/lrosok/Layoff-Predictor.git
 2. **Navigate to the project directory**:
+   ```bash
    cd Layoff-Predictor
-3. **Open the Jupyter Notebook in your terminal**:
+4. **Open the Jupyter Notebook in your terminal**:
+   ```bash
    jupyter notebook
-4. **Run the notebook**:
+6. **Run the notebook**:
    - Open the Layoffs_ML.ipynb notebook.
    - Follow the instructions within the notebook to load the dataset and execute the model.
 
@@ -24,9 +26,9 @@ Note: Ensure you have Jupyter installed. If not, you can install it via pip:
 pip install notebook
 
 ## Features
--Predicts potential layoffs based on historical data.
--Utilizes machine learning algorithms for accurate predictions.
--Provides insights into the factors contributing to layoffs.
+*Predicts potential layoffs based on historical data.
+*Utilizes machine learning algorithms for accurate predictions.
+*Provides insights into the factors contributing to layoffs.
 
 ## License
 This project is licensed under the MIT License.
