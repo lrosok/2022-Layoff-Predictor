@@ -26,9 +26,9 @@ Note: Ensure you have Jupyter installed. If not, you can install it via pip:
 pip install notebook
 
 ## Features
-*Predicts potential layoffs based on historical data.
-*Utilizes machine learning algorithms for accurate predictions.
-*Provides insights into the factors contributing to layoffs.
+- Predicts potential layoffs based on historical data.
+- Utilizes machine learning algorithms for accurate predictions.
+- Provides insights into the factors contributing to layoffs.
 
 ## License
 This project is licensed under the MIT License.
